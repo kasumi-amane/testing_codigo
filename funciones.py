@@ -47,5 +47,3 @@ def ingresar_palabras():
             f'tiene un total de {cantidad_caracteres_mayor} caracteres'
     
     print(texto)
-
-ingresar_palabras()
